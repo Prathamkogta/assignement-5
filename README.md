@@ -39,7 +39,7 @@ The **Yeast dataset** contains gene expression data with:
 
 ### 2. **Isomap (Isometric Mapping)**
 - Non-linear technique preserving geodesic distances
-- **Neighbors parameter**: 5, 30, 50
+- **Neighbors parameter**: 5, 10, 15
 
 ---
 
@@ -67,7 +67,7 @@ To make visualizations interpretable, labels are simplified into:
 
 ### Optimal Parameters:
 - **t-SNE**: Perplexity=30 provided best separation
-- **Isomap**: n_neighbors=30 captured meaningful structure
+- **Isomap**: n_neighbors=15 captured meaningful structure
 
 ---
 
