@@ -22,7 +22,7 @@ The **Yeast dataset** contains gene expression data with:
 ## 🗂 Dataset
 
 - **Source**: UCI Yeast Dataset (via `fetch_openml`)
-- **Features**: 86 numerical gene expression features
+- **Features**: 103 numerical gene expression features
 - **Labels**: 14 multi-label functional classes
 - **Preprocessing**:
   - StandardScaler applied for feature normalization
