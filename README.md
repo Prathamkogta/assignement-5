@@ -8,7 +8,7 @@ This notebook implements **t-SNE** and **Isomap** visualization techniques to id
 
 The **Yeast dataset** contains gene expression data with:
 - **2417 instances**
-- **86 features**
+- **103 features**
 - **14 functional class labels**
 
 ### Goals:
